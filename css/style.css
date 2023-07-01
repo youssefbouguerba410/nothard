@@ -219,6 +219,7 @@ button {
      width: 100%;
      overflow: hidden;
      padding-top: 5.25%; /* 16:9 Aspect Ratio */
+  min-height: 600px;
    
 }
 .responsive-iframe {
