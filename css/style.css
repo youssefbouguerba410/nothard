@@ -214,6 +214,14 @@ button {
      padding-top: 90px;
      padding-bottom: 90px;
 }
+.worki .titlepage {
+     text-align:center;
+     padding: 0;
+     max-width: 648px;
+     width: 60%;
+     float: right;
+   
+}
 
 .layout_padding_2 {
      padding-top: 75px;
